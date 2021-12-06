@@ -1,0 +1,18 @@
+.navbar-brand{
+    display: flex;
+    align-items: center;
+}
+.navbar-brand span{
+    margin-right: 10px;
+}
+.container{
+    margin-top: 50px;
+}
+.button-new{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.button-new a{
+    margin-right: 10px;
+}

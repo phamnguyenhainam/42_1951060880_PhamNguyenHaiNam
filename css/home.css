@@ -1,0 +1,30 @@
+/*css for header*/
+.navbar-brand{
+    display: flex;
+    align-items: center;
+}
+.navbar-brand span{
+    margin-right: 10px;
+}
+/*css for main*/
+.container{
+    margin-top: 50px;   
+}
+.my_about{
+    text-align: justify;
+}
+.md-form-name{
+    margin-left: 50px;
+}
+.md-form-email{
+    margin-left: 50px;
+}
+.md-form-subject{
+    margin-left: 50px;
+}
+.md-form{
+    margin-left: 50px;
+}
+.btn-primary{
+    margin-left: 300px;
+}
